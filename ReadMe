@@ -1,0 +1,40 @@
+The Expense Tracker is a simple web application built with HTML, CSS, and JavaScript to help you manage and keep track of your personal expenses. It allows you to add, remove, and view your expenses, providing a simple way to control your spending and gain insights into your financial habits.
+
+By the end of this project, you'll have a functional web application that allows you to:
+
+Add new expenses
+View a list of all expenses
+Remove expenses when necessary
+Track the total amount of expenses
+
+
+
+## 🚀 Technologies Used
+
+| Technology        | Purpose                           |
+|------------------|-----------------------------------|
+| HTML5 / CSS3      | Page structure and styling         |
+| JavaScript  | Application logic and interactivity 
+
+
+## 📦 Local Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/japhet.175/expense-tracker.git
+
+# 2. Navigate to the project directory
+cd expense-tracker
+
+# 3. Open the app in your browser
+# If using VS Code, right-click index.html > Open with Live Server
+# Or simply double-click index.html to run in your browser
+
+
+
+expense-tracker/
+│
+├── index.html        # Main HTML file
+├── style.css         # Styling file
+├── script.js         # App logic
+├── README.md         # This file
